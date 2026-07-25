@@ -1,0 +1,506 @@
+Transaction_ID,Date,Category,Quantity,Price,Payment_Mode
+1001,2026-02-21,Books,4.0,10.0,UPI
+1002,2026-04-03,Clothing,4.0,49.9,Credit Card
+1003,2026-01-15,Books,4.0,49.9,Cash
+1004,2026-03-13,Home & Kitchen,1.0,99.9,Cash
+1005,2026-03-02,Electronics,2.0,49.9,Cash
+1006,2026-01-21,Clothing,2.0,49.9,UPI
+1007,2026-03-24,Electronics,1.0,500.0,UPI
+1008,2026-03-28,Electronics,2.0,10.0,Debit Card
+1009,2026-03-16,Clothing,1.0,99.9,Cash
+1010,2026-03-16,Books,2.0,500.0,Credit Card
+1011,2026-03-29,Electronics,3.0,,UPI
+1012,2026-04-10,Home & Kitchen,3.0,,Cash
+1013,2026-01-24,Electronics,4.0,,Cash
+1014,2026-01-03,Clothing,3.0,,UPI
+1015,2026-01-22,Clothing,3.0,,Debit Card
+1016,2026-02-22,Clothing,3.0,,UPI
+1017,2026-01-02,Books,1.0,25.5,UPI
+1018,2026-03-29,Electronics,3.0,99.9,Credit Card
+1019,2026-01-30,Books,3.0,25.5,Credit Card
+1020,2026-02-07,Books,4.0,250.0,Debit Card
+1021,2026-01-02,Clothing,3.0,10.0,Cash
+1022,2026-03-05,Clothing,3.0,10.0,UPI
+1023,2026-03-01,Books,2.0,99.9,Debit Card
+1024,2026-01-21,Electronics,4.0,10.0,Credit Card
+1025,2026-02-02,Home & Kitchen,4.0,10.0,UPI
+1026,2026-03-17,Books,4.0,99.9,Cash
+1027,2026-02-27,Electronics,4.0,500.0,Credit Card
+1028,2026-01-22,Clothing,4.0,500.0,Credit Card
+1029,2026-03-30,Clothing,4.0,99.9,Credit Card
+1030,2026-02-18,Electronics,1.0,250.0,Debit Card
+1031,2026-04-01,Home & Kitchen,3.0,10.0,Cash
+1032,2026-02-28,Clothing,4.0,10.0,UPI
+1033,2026-02-11,Clothing,3.0,250.0,Debit Card
+1034,2026-04-02,Clothing,3.0,500.0,Debit Card
+1035,2026-03-01,Electronics,1.0,49.9,Debit Card
+1036,2026-03-21,Books,4.0,49.9,Credit Card
+1037,2026-01-15,Clothing,2.0,49.9,Cash
+1038,2026-03-03,Books,1.0,500.0,Debit Card
+1039,2026-03-03,Home & Kitchen,2.0,500.0,UPI
+1040,2026-02-16,Clothing,3.0,250.0,Cash
+1041,2026-03-03,Clothing,3.0,10.0,UPI
+1042,2026-02-20,Home & Kitchen,1.0,250.0,Cash
+1043,2026-02-24,Clothing,1.0,250.0,UPI
+1044,2026-03-05,Books,2.0,500.0,Credit Card
+1045,2026-01-03,Electronics,4.0,49.9,Debit Card
+1046,2026-02-20,Books,2.0,25.5,UPI
+1047,2026-01-07,Electronics,1.0,10.0,Cash
+1048,2026-01-21,Electronics,2.0,500.0,Debit Card
+1049,2026-03-14,Books,1.0,49.9,Debit Card
+1050,2026-02-08,Books,2.0,25.5,Cash
+1051,2026-01-18,Books,,25.5,UPI
+1052,2026-01-04,Books,,500.0,Credit Card
+1053,2026-03-30,Home & Kitchen,,99.9,Credit Card
+1054,2026-03-01,Clothing,4.0,10.0,UPI
+1055,2026-01-14,Electronics,2.0,25.5,Debit Card
+1056,2026-01-09,Books,2.0,500.0,Debit Card
+1057,2026-03-31,Books,2.0,500.0,Debit Card
+1058,2026-02-22,Books,1.0,49.9,Debit Card
+1059,2026-01-02,Home & Kitchen,2.0,99.9,UPI
+1060,2026-03-25,Books,2.0,10.0,Debit Card
+1061,2026-04-02,Books,1.0,250.0,Cash
+1062,2026-03-01,Books,3.0,49.9,Debit Card
+1063,2026-03-12,Clothing,1.0,25.5,Credit Card
+1064,2026-02-13,Home & Kitchen,2.0,25.5,Debit Card
+1065,2026-01-08,Books,1.0,49.9,UPI
+1066,2026-02-16,Electronics,3.0,500.0,Credit Card
+1067,2026-02-04,Electronics,1.0,25.5,UPI
+1068,2026-03-19,Electronics,2.0,99.9,UPI
+1069,2026-03-22,Home & Kitchen,3.0,10.0,Credit Card
+1070,2026-02-05,Home & Kitchen,4.0,99.9,UPI
+1071,2026-02-19,Electronics,2.0,25.5,UPI
+1072,2026-01-04,Books,3.0,250.0,Debit Card
+1073,2026-01-02,Home & Kitchen,3.0,10.0,Cash
+1074,2026-01-06,Electronics,4.0,10.0,UPI
+1075,2026-02-23,Electronics,1.0,49.9,UPI
+1076,2026-01-04,Books,1.0,49.9,UPI
+1077,2026-02-23,Clothing,2.0,250.0,Debit Card
+1078,2026-04-03,Home & Kitchen,4.0,500.0,Cash
+1079,2026-03-04,Books,1.0,10.0,Credit Card
+1080,2026-01-18,Electronics,4.0,250.0,Debit Card
+1081,2026-03-31,Electronics,1.0,49.9,Debit Card
+1082,2026-02-13,Books,3.0,49.9,Cash
+1083,2026-02-03,Home & Kitchen,1.0,10.0,Cash
+1084,2026-03-15,Clothing,4.0,99.9,Debit Card
+1085,2026-03-03,Clothing,3.0,25.5,Credit Card
+1086,2026-04-10,Electronics,3.0,49.9,Debit Card
+1087,2026-01-14,Home & Kitchen,3.0,500.0,Cash
+1088,2026-04-05,Clothing,4.0,500.0,Credit Card
+1089,2026-02-17,Home & Kitchen,2.0,49.9,Cash
+1090,2026-01-15,Home & Kitchen,2.0,99.9,Credit Card
+1091,2026-03-13,Electronics,2.0,99.9,UPI
+1092,2026-03-19,Clothing,4.0,250.0,Cash
+1093,2026-03-28,Books,3.0,500.0,Cash
+1094,2026-03-03,Electronics,2.0,250.0,Debit Card
+1095,2026-02-09,Clothing,4.0,500.0,Cash
+1096,2026-03-26,Clothing,2.0,25.5,Cash
+1097,2026-03-21,Clothing,1.0,25.5,UPI
+1098,2026-03-23,Clothing,2.0,10.0,Cash
+1099,2026-02-22,Clothing,2.0,250.0,UPI
+1100,2026-01-24,Home & Kitchen,3.0,49.9,UPI
+1101,2026-01-26,Electronics,4.0,250.0,UPI
+1102,2026-03-30,Home & Kitchen,3.0,49.9,UPI
+1103,2026-03-01,Books,3.0,99.9,Credit Card
+1104,2026-02-10,Clothing,3.0,250.0,Debit Card
+1105,2026-01-29,Electronics,3.0,99.9,Credit Card
+1106,2026-01-15,Clothing,3.0,25.5,Cash
+1107,2026-02-14,Electronics,2.0,25.5,Credit Card
+1108,2026-03-06,Home & Kitchen,3.0,10.0,Credit Card
+1109,2026-03-30,Electronics,3.0,250.0,Cash
+1110,2026-03-12,Books,4.0,99.9,Cash
+1111,2026-01-09,Books,1.0,49.9,Cash
+1112,2026-03-29,Electronics,2.0,25.5,Credit Card
+1113,2026-01-01,Electronics,2.0,25.5,Credit Card
+1114,2026-01-08,Electronics,2.0,49.9,Cash
+1115,2026-03-29,Electronics,3.0,99.9,Debit Card
+1116,2026-03-04,Books,3.0,99.9,Debit Card
+1117,2026-01-11,Clothing,3.0,250.0,UPI
+1118,2026-03-22,Electronics,4.0,250.0,Cash
+1119,2026-01-08,Electronics,1.0,500.0,UPI
+1120,2026-02-04,Books,3.0,500.0,Debit Card
+1121,2026-02-04,Books,1.0,10.0,UPI
+1122,2026-02-02,Home & Kitchen,4.0,25.5,Cash
+1123,2026-01-05,Electronics,2.0,250.0,Cash
+1124,2026-02-10,Home & Kitchen,3.0,99.9,Cash
+1125,2026-01-28,Books,1.0,49.9,Credit Card
+1126,2026-01-07,Books,1.0,99.9,UPI
+1127,2026-03-14,Clothing,3.0,25.5,Debit Card
+1128,2026-03-13,Electronics,2.0,500.0,Debit Card
+1129,2026-01-12,Home & Kitchen,2.0,99.9,Debit Card
+1130,2026-02-03,Books,2.0,10.0,Credit Card
+1131,2026-02-02,Books,4.0,25.5,Credit Card
+1132,2026-02-17,Home & Kitchen,1.0,500.0,Cash
+1133,2026-01-23,Clothing,1.0,49.9,Debit Card
+1134,2026-03-03,Books,1.0,500.0,Credit Card
+1135,2026-03-29,Electronics,4.0,10.0,Cash
+1136,2026-02-06,Books,1.0,25.5,Debit Card
+1137,2026-04-09,Electronics,4.0,49.9,UPI
+1138,2026-02-13,Home & Kitchen,2.0,10.0,Cash
+1139,2026-03-27,Electronics,3.0,500.0,Credit Card
+1140,2026-04-01,Home & Kitchen,1.0,10.0,Credit Card
+1141,2026-02-04,Electronics,1.0,25.5,Cash
+1142,2026-03-06,Home & Kitchen,2.0,250.0,Cash
+1143,2026-04-09,Electronics,3.0,10.0,Credit Card
+1144,2026-02-16,Clothing,4.0,10.0,UPI
+1145,2026-03-19,Electronics,3.0,500.0,Debit Card
+1146,2026-01-03,Electronics,2.0,500.0,UPI
+1147,2026-01-01,Clothing,2.0,49.9,Cash
+1148,2026-01-05,Books,3.0,500.0,UPI
+1149,2026-03-31,Books,4.0,99.9,Credit Card
+1150,2026-01-14,Electronics,4.0,25.5,Cash
+1151,2026-01-27,Clothing,1.0,25.5,Debit Card
+1152,2026-01-09,Electronics,4.0,250.0,Credit Card
+1153,2026-03-20,Home & Kitchen,3.0,250.0,Credit Card
+1154,2026-01-15,Home & Kitchen,2.0,25.5,Debit Card
+1155,2026-03-31,Electronics,1.0,250.0,Debit Card
+1156,2026-02-11,Books,1.0,49.9,UPI
+1157,2026-03-18,Books,2.0,500.0,Cash
+1158,2026-02-20,Electronics,4.0,25.5,Debit Card
+1159,2026-03-04,Electronics,2.0,250.0,Debit Card
+1160,2026-04-06,Home & Kitchen,4.0,25.5,Cash
+1161,2026-02-21,Books,2.0,99.9,Debit Card
+1162,2026-04-06,Electronics,3.0,10.0,Debit Card
+1163,2026-01-04,Home & Kitchen,4.0,500.0,UPI
+1164,2026-04-04,Books,3.0,25.5,Credit Card
+1165,2026-01-23,Clothing,1.0,10.0,Credit Card
+1166,2026-01-15,Home & Kitchen,2.0,250.0,Credit Card
+1167,2026-02-12,Books,1.0,10.0,Credit Card
+1168,2026-01-29,Books,1.0,500.0,Debit Card
+1169,2026-02-05,Home & Kitchen,1.0,25.5,Cash
+1170,2026-01-13,Clothing,1.0,99.9,Cash
+1171,2026-02-01,Home & Kitchen,2.0,250.0,UPI
+1172,2026-03-12,Books,1.0,25.5,UPI
+1173,2026-02-28,Electronics,2.0,500.0,Debit Card
+1174,2026-03-27,Electronics,2.0,250.0,Cash
+1175,2026-01-28,Home & Kitchen,3.0,49.9,Cash
+1176,2026-03-07,Books,4.0,10.0,Credit Card
+1177,2026-02-11,Electronics,4.0,500.0,Debit Card
+1178,2026-02-14,Books,2.0,49.9,Debit Card
+1179,2026-03-03,Home & Kitchen,3.0,25.5,Credit Card
+1180,2026-02-26,Electronics,2.0,99.9,Debit Card
+1181,2026-01-06,Books,2.0,250.0,Debit Card
+1182,2026-01-28,Electronics,2.0,10.0,UPI
+1183,2026-01-28,Home & Kitchen,3.0,250.0,Cash
+1184,2026-02-13,Books,4.0,25.5,Debit Card
+1185,2026-03-25,Electronics,3.0,250.0,UPI
+1186,2026-01-30,Home & Kitchen,1.0,10.0,Cash
+1187,2026-03-03,Electronics,3.0,25.5,Credit Card
+1188,2026-03-16,Electronics,3.0,250.0,UPI
+1189,2026-04-02,Clothing,3.0,99.9,UPI
+1190,2026-03-30,Clothing,3.0,500.0,Cash
+1191,2026-03-03,Home & Kitchen,4.0,25.5,Credit Card
+1192,2026-04-07,Clothing,1.0,500.0,UPI
+1193,2026-01-01,Home & Kitchen,4.0,25.5,Debit Card
+1194,2026-01-27,Clothing,4.0,99.9,Debit Card
+1195,2026-03-03,Electronics,3.0,500.0,Debit Card
+1196,2026-03-18,Home & Kitchen,2.0,49.9,Credit Card
+1197,2026-01-03,Home & Kitchen,2.0,10.0,UPI
+1198,2026-03-11,Electronics,4.0,49.9,Debit Card
+1199,2026-03-13,Home & Kitchen,4.0,250.0,Credit Card
+1200,2026-01-27,Home & Kitchen,3.0,99.9,Debit Card
+1201,2026-01-09,Clothing,4.0,49.9,Cash
+1202,2026-03-03,Home & Kitchen,3.0,25.5,UPI
+1203,2026-02-06,Books,2.0,250.0,UPI
+1204,2026-04-07,Electronics,2.0,250.0,Credit Card
+1205,2026-02-20,Clothing,1.0,49.9,Credit Card
+1206,2026-02-13,Clothing,2.0,49.9,UPI
+1207,2026-01-24,Books,4.0,99.9,Debit Card
+1208,2026-03-20,Electronics,2.0,10.0,Debit Card
+1209,2026-02-28,Electronics,3.0,49.9,Cash
+1210,2026-02-01,Clothing,2.0,49.9,Debit Card
+1211,2026-04-06,Home & Kitchen,1.0,500.0,Credit Card
+1212,2026-03-29,Clothing,2.0,25.5,Credit Card
+1213,2026-02-21,Electronics,3.0,500.0,Debit Card
+1214,2026-03-03,Books,3.0,500.0,Credit Card
+1215,2026-02-27,Clothing,4.0,250.0,UPI
+1216,2026-02-21,Electronics,2.0,10.0,UPI
+1217,2026-01-12,Clothing,3.0,25.5,Debit Card
+1218,2026-02-08,Home & Kitchen,1.0,99.9,UPI
+1219,2026-01-02,Clothing,4.0,99.9,UPI
+1220,2026-01-03,Clothing,1.0,49.9,Cash
+1221,2026-02-25,Electronics,2.0,49.9,Cash
+1222,2026-03-22,Electronics,2.0,99.9,UPI
+1223,2026-02-28,Electronics,2.0,49.9,Debit Card
+1224,2026-01-02,Clothing,4.0,10.0,Cash
+1225,2026-01-02,Home & Kitchen,3.0,500.0,Credit Card
+1226,2026-04-02,Books,4.0,49.9,Credit Card
+1227,2026-02-23,Books,1.0,250.0,Credit Card
+1228,2026-03-28,Electronics,4.0,49.9,Debit Card
+1229,2026-04-06,Electronics,1.0,25.5,UPI
+1230,2026-04-07,Clothing,4.0,10.0,Credit Card
+1231,2026-01-01,Books,3.0,25.5,Debit Card
+1232,2026-01-19,Electronics,1.0,25.5,Cash
+1233,2026-01-02,Home & Kitchen,2.0,250.0,UPI
+1234,2026-02-22,Home & Kitchen,2.0,10.0,Cash
+1235,2026-02-13,Electronics,4.0,10.0,Debit Card
+1236,2026-03-31,Electronics,2.0,10.0,Credit Card
+1237,2026-02-01,Books,1.0,10.0,Credit Card
+1238,2026-03-11,Books,2.0,10.0,Debit Card
+1239,2026-02-01,Clothing,3.0,250.0,Credit Card
+1240,2026-03-09,Books,3.0,49.9,UPI
+1241,2026-02-24,Home & Kitchen,4.0,25.5,Debit Card
+1242,2026-03-16,Home & Kitchen,1.0,10.0,Cash
+1243,2026-02-25,Electronics,3.0,49.9,Debit Card
+1244,2026-01-17,Books,3.0,49.9,UPI
+1245,2026-02-07,Clothing,1.0,25.5,UPI
+1246,2026-01-24,Home & Kitchen,2.0,250.0,Debit Card
+1247,2026-03-10,Home & Kitchen,2.0,99.9,Debit Card
+1248,2026-04-08,Clothing,4.0,99.9,Credit Card
+1249,2026-03-11,Clothing,2.0,49.9,UPI
+1250,2026-03-27,Home & Kitchen,1.0,500.0,Debit Card
+1251,2026-01-11,Home & Kitchen,3.0,500.0,Debit Card
+1252,2026-01-16,Clothing,2.0,25.5,UPI
+1253,2026-04-07,Home & Kitchen,4.0,99.9,Debit Card
+1254,2026-03-14,Electronics,2.0,49.9,Credit Card
+1255,2026-02-28,Electronics,1.0,250.0,UPI
+1256,2026-03-11,Clothing,4.0,99.9,Credit Card
+1257,2026-03-21,Books,2.0,49.9,Credit Card
+1258,2026-04-03,Clothing,4.0,49.9,Credit Card
+1259,2026-01-03,Clothing,1.0,10.0,Credit Card
+1260,2026-01-20,Books,3.0,250.0,UPI
+1261,2026-02-28,Books,1.0,10.0,Credit Card
+1262,2026-02-05,Books,1.0,25.5,Credit Card
+1263,2026-01-19,Electronics,1.0,10.0,Debit Card
+1264,2026-03-31,Home & Kitchen,1.0,10.0,UPI
+1265,2026-03-08,Electronics,3.0,99.9,UPI
+1266,2026-01-19,Home & Kitchen,3.0,500.0,Cash
+1267,2026-01-20,Electronics,4.0,49.9,UPI
+1268,2026-04-06,Home & Kitchen,2.0,250.0,UPI
+1269,2026-03-12,Electronics,3.0,10.0,Cash
+1270,2026-02-21,Books,3.0,250.0,UPI
+1271,2026-02-02,Clothing,2.0,500.0,UPI
+1272,2026-02-09,Electronics,3.0,500.0,UPI
+1273,2026-02-08,Home & Kitchen,1.0,10.0,UPI
+1274,2026-03-23,Books,1.0,25.5,Cash
+1275,2026-01-01,Electronics,2.0,10.0,UPI
+1276,2026-01-11,Electronics,4.0,99.9,UPI
+1277,2026-04-02,Books,4.0,49.9,Cash
+1278,2026-02-26,Electronics,2.0,25.5,Debit Card
+1279,2026-03-30,Clothing,2.0,10.0,Credit Card
+1280,2026-02-19,Electronics,1.0,250.0,Debit Card
+1281,2026-01-23,Clothing,4.0,25.5,Cash
+1282,2026-01-31,Clothing,3.0,25.5,Credit Card
+1283,2026-04-04,Books,1.0,10.0,Cash
+1284,2026-02-11,Electronics,2.0,25.5,Cash
+1285,2026-04-09,Books,4.0,250.0,UPI
+1286,2026-01-07,Electronics,3.0,500.0,Credit Card
+1287,2026-01-16,Electronics,3.0,25.5,UPI
+1288,2026-03-31,Home & Kitchen,1.0,500.0,Credit Card
+1289,2026-03-01,Electronics,4.0,250.0,Cash
+1290,2026-01-02,Books,4.0,10.0,Cash
+1291,2026-01-01,Clothing,2.0,49.9,Debit Card
+1292,2026-02-17,Electronics,4.0,25.5,Credit Card
+1293,2026-01-12,Home & Kitchen,4.0,49.9,UPI
+1294,2026-03-10,Books,1.0,250.0,Debit Card
+1295,2026-02-06,Electronics,4.0,25.5,Debit Card
+1296,2026-02-01,Books,3.0,500.0,Debit Card
+1297,2026-01-09,Home & Kitchen,1.0,99.9,UPI
+1298,2026-04-09,Home & Kitchen,1.0,49.9,Debit Card
+1299,2026-01-19,Books,2.0,25.5,UPI
+1300,2026-02-17,Electronics,4.0,49.9,Debit Card
+1301,2026-03-21,Clothing,2.0,25.5,UPI
+1302,2026-01-03,Home & Kitchen,3.0,10.0,Cash
+1303,2026-01-20,Electronics,1.0,500.0,Cash
+1304,2026-01-24,Electronics,1.0,49.9,Cash
+1305,2026-02-23,Clothing,1.0,99.9,Cash
+1306,2026-02-02,Home & Kitchen,3.0,99.9,Cash
+1307,2026-01-24,Home & Kitchen,3.0,250.0,Debit Card
+1308,2026-03-16,Electronics,2.0,25.5,Debit Card
+1309,2026-03-13,Electronics,2.0,49.9,Debit Card
+1310,2026-02-05,Clothing,2.0,250.0,UPI
+1311,2026-02-07,Clothing,4.0,49.9,UPI
+1312,2026-03-25,Home & Kitchen,1.0,25.5,UPI
+1313,2026-04-09,Books,1.0,99.9,UPI
+1314,2026-03-30,Home & Kitchen,2.0,10.0,Cash
+1315,2026-04-09,Electronics,1.0,99.9,Cash
+1316,2026-01-25,Home & Kitchen,2.0,250.0,Cash
+1317,2026-04-03,Books,4.0,500.0,Credit Card
+1318,2026-01-18,Clothing,4.0,10.0,Debit Card
+1319,2026-03-23,Books,3.0,250.0,UPI
+1320,2026-03-07,Books,4.0,25.5,UPI
+1321,2026-02-23,Books,2.0,10.0,Cash
+1322,2026-02-04,Clothing,4.0,250.0,UPI
+1323,2026-03-21,Books,3.0,25.5,UPI
+1324,2026-03-02,Books,1.0,99.9,Debit Card
+1325,2026-02-10,Books,2.0,500.0,Cash
+1326,2026-04-10,Electronics,1.0,25.5,Debit Card
+1327,2026-02-02,Books,3.0,49.9,Credit Card
+1328,2026-03-09,Clothing,3.0,25.5,Credit Card
+1329,2026-02-02,Books,3.0,25.5,Credit Card
+1330,2026-01-14,Books,1.0,500.0,Cash
+1331,2026-01-21,Clothing,1.0,49.9,UPI
+1332,2026-02-17,Books,1.0,250.0,Cash
+1333,2026-01-20,Clothing,1.0,250.0,Cash
+1334,2026-01-08,Books,3.0,25.5,UPI
+1335,2026-01-07,Clothing,3.0,49.9,Debit Card
+1336,2026-03-08,Books,2.0,49.9,Credit Card
+1337,2026-01-17,Books,2.0,500.0,Debit Card
+1338,2026-02-02,Electronics,1.0,99.9,Credit Card
+1339,2026-02-17,Electronics,4.0,250.0,Cash
+1340,2026-03-17,Books,4.0,500.0,Credit Card
+1341,2026-02-28,Books,3.0,10.0,Cash
+1342,2026-03-27,Home & Kitchen,3.0,250.0,Debit Card
+1343,2026-01-22,Clothing,3.0,500.0,Cash
+1344,2026-01-30,Home & Kitchen,2.0,250.0,Debit Card
+1345,2026-02-07,Electronics,2.0,99.9,UPI
+1346,2026-02-20,Electronics,3.0,10.0,UPI
+1347,2026-02-23,Electronics,3.0,99.9,UPI
+1348,2026-01-08,Electronics,3.0,10.0,Cash
+1349,2026-01-27,Books,4.0,25.5,UPI
+1350,2026-01-27,Electronics,2.0,500.0,Credit Card
+1351,2026-04-08,Books,4.0,10.0,Debit Card
+1352,2026-01-21,Books,4.0,99.9,Debit Card
+1353,2026-01-30,Electronics,3.0,250.0,Credit Card
+1354,2026-04-07,Electronics,3.0,10.0,Cash
+1355,2026-01-28,Clothing,1.0,500.0,Cash
+1356,2026-03-05,Home & Kitchen,1.0,10.0,Debit Card
+1357,2026-04-07,Electronics,4.0,49.9,UPI
+1358,2026-03-10,Clothing,2.0,250.0,Cash
+1359,2026-03-02,Clothing,3.0,500.0,Cash
+1360,2026-02-17,Home & Kitchen,3.0,500.0,Credit Card
+1361,2026-01-19,Books,4.0,25.5,Credit Card
+1362,2026-01-04,Electronics,1.0,99.9,UPI
+1363,2026-02-04,Home & Kitchen,2.0,25.5,Cash
+1364,2026-03-05,Electronics,1.0,500.0,Cash
+1365,2026-02-18,Clothing,1.0,250.0,Credit Card
+1366,2026-01-17,Clothing,1.0,10.0,Cash
+1367,2026-02-13,Books,1.0,10.0,Debit Card
+1368,2026-04-02,Clothing,3.0,250.0,Credit Card
+1369,2026-01-30,Clothing,3.0,500.0,UPI
+1370,2026-04-03,Home & Kitchen,1.0,10.0,Credit Card
+1371,2026-02-15,Electronics,2.0,10.0,Cash
+1372,2026-01-06,Electronics,4.0,10.0,UPI
+1373,2026-04-09,Home & Kitchen,2.0,99.9,Credit Card
+1374,2026-02-06,Books,2.0,99.9,Debit Card
+1375,2026-01-24,Electronics,2.0,49.9,Debit Card
+1376,2026-04-03,Clothing,1.0,25.5,Credit Card
+1377,2026-02-15,Electronics,3.0,250.0,Debit Card
+1378,2026-02-22,Clothing,2.0,250.0,Debit Card
+1379,2026-04-05,Books,1.0,250.0,Debit Card
+1380,2026-04-09,Home & Kitchen,2.0,49.9,UPI
+1381,2026-03-01,Electronics,2.0,99.9,Debit Card
+1382,2026-04-07,Home & Kitchen,1.0,500.0,Debit Card
+1383,2026-03-04,Electronics,3.0,500.0,Debit Card
+1384,2026-03-26,Clothing,3.0,49.9,UPI
+1385,2026-02-01,Home & Kitchen,4.0,500.0,Credit Card
+1386,2026-03-28,Electronics,1.0,250.0,Cash
+1387,2026-02-02,Clothing,4.0,25.5,Debit Card
+1388,2026-03-08,Home & Kitchen,4.0,10.0,Credit Card
+1389,2026-01-18,Home & Kitchen,4.0,99.9,Debit Card
+1390,2026-01-25,Electronics,3.0,99.9,UPI
+1391,2026-04-05,Electronics,1.0,49.9,Credit Card
+1392,2026-02-23,Electronics,4.0,99.9,UPI
+1393,2026-02-27,Clothing,1.0,250.0,Debit Card
+1394,2026-03-08,Electronics,1.0,500.0,Debit Card
+1395,2026-02-15,Home & Kitchen,3.0,250.0,UPI
+1396,2026-01-24,Home & Kitchen,4.0,49.9,Cash
+1397,2026-02-01,Electronics,4.0,250.0,UPI
+1398,2026-02-16,Electronics,1.0,500.0,Debit Card
+1399,2026-03-27,Books,2.0,25.5,UPI
+1400,2026-01-23,Home & Kitchen,3.0,49.9,Cash
+1401,2026-03-07,Clothing,3.0,25.5,UPI
+1402,2026-01-27,Books,3.0,10.0,Cash
+1403,2026-01-02,Electronics,3.0,25.5,Cash
+1404,2026-03-31,Electronics,4.0,10.0,UPI
+1405,2026-01-17,Home & Kitchen,4.0,10.0,UPI
+1406,2026-02-02,Electronics,2.0,25.5,Credit Card
+1407,2026-01-09,Clothing,3.0,49.9,Debit Card
+1408,2026-02-12,Home & Kitchen,3.0,500.0,Cash
+1409,2026-02-17,Electronics,1.0,250.0,Credit Card
+1410,2026-02-08,Home & Kitchen,4.0,250.0,UPI
+1411,2026-04-03,Electronics,3.0,500.0,Debit Card
+1412,2026-02-11,Electronics,2.0,10.0,Credit Card
+1413,2026-01-26,Electronics,2.0,10.0,Cash
+1414,2026-04-09,Clothing,4.0,49.9,Credit Card
+1415,2026-02-19,Clothing,2.0,99.9,Cash
+1416,2026-01-25,Home & Kitchen,2.0,25.5,UPI
+1417,2026-01-24,Electronics,4.0,10.0,Debit Card
+1418,2026-01-13,Electronics,3.0,250.0,Debit Card
+1419,2026-03-01,Clothing,3.0,49.9,Debit Card
+1420,2026-01-07,Electronics,2.0,25.5,UPI
+1421,2026-02-26,Clothing,2.0,49.9,Cash
+1422,2026-02-05,Electronics,3.0,25.5,UPI
+1423,2026-02-14,Home & Kitchen,4.0,25.5,Debit Card
+1424,2026-01-20,Electronics,2.0,500.0,UPI
+1425,2026-03-06,Electronics,1.0,10.0,UPI
+1426,2026-01-08,Books,4.0,49.9,UPI
+1427,2026-01-16,Clothing,2.0,49.9,Cash
+1428,2026-01-14,Electronics,2.0,500.0,Credit Card
+1429,2026-03-17,Electronics,1.0,250.0,Credit Card
+1430,2026-03-28,Books,1.0,250.0,UPI
+1431,2026-01-15,Books,3.0,10.0,Credit Card
+1432,2026-04-02,Clothing,4.0,10.0,Credit Card
+1433,2026-04-08,Books,4.0,99.9,UPI
+1434,2026-03-07,Home & Kitchen,3.0,500.0,UPI
+1435,2026-02-01,Books,4.0,250.0,Debit Card
+1436,2026-03-28,Home & Kitchen,4.0,25.5,Credit Card
+1437,2026-03-04,Clothing,4.0,49.9,Cash
+1438,2026-03-27,Clothing,4.0,10.0,UPI
+1439,2026-02-20,Clothing,4.0,49.9,Debit Card
+1440,2026-01-25,Clothing,1.0,49.9,Cash
+1441,2026-02-27,Clothing,4.0,99.9,Credit Card
+1442,2026-03-04,Home & Kitchen,1.0,250.0,Debit Card
+1443,2026-03-03,Home & Kitchen,4.0,10.0,UPI
+1444,2026-01-22,Clothing,3.0,49.9,Cash
+1445,2026-02-27,Books,2.0,10.0,UPI
+1446,2026-02-27,Electronics,1.0,25.5,Credit Card
+1447,2026-03-27,Clothing,4.0,99.9,Cash
+1448,2026-02-18,Books,3.0,25.5,Credit Card
+1449,2026-02-21,Electronics,2.0,10.0,Credit Card
+1450,2026-02-11,Clothing,1.0,10.0,Debit Card
+1451,2026-03-11,Clothing,2.0,250.0,UPI
+1452,2026-01-15,Home & Kitchen,3.0,49.9,Cash
+1453,2026-02-23,Electronics,1.0,49.9,Credit Card
+1454,2026-03-01,Electronics,2.0,25.5,Credit Card
+1455,2026-04-07,Books,4.0,99.9,Cash
+1456,2026-01-08,Home & Kitchen,1.0,500.0,Credit Card
+1457,2026-02-22,Home & Kitchen,2.0,49.9,Debit Card
+1458,2026-03-01,Home & Kitchen,3.0,250.0,Debit Card
+1459,2026-01-05,Home & Kitchen,3.0,25.5,Debit Card
+1460,2026-03-09,Electronics,1.0,25.5,Debit Card
+1461,2026-01-06,Electronics,2.0,500.0,Credit Card
+1462,2026-04-06,Clothing,1.0,250.0,Cash
+1463,2026-04-04,Clothing,1.0,99.9,Cash
+1464,2026-02-16,Home & Kitchen,2.0,250.0,Cash
+1465,2026-04-09,Home & Kitchen,2.0,99.9,Cash
+1466,2026-02-24,Home & Kitchen,4.0,250.0,UPI
+1467,2026-02-09,Clothing,2.0,250.0,Cash
+1468,2026-02-21,Books,3.0,10.0,UPI
+1469,2026-01-16,Books,1.0,25.5,UPI
+1470,2026-01-13,Clothing,1.0,250.0,Debit Card
+1471,2026-01-30,Clothing,3.0,500.0,UPI
+1472,2026-01-19,Clothing,2.0,250.0,Credit Card
+1473,2026-01-17,Clothing,3.0,49.9,UPI
+1474,2026-03-04,Clothing,3.0,25.5,Debit Card
+1475,2026-01-19,Clothing,4.0,49.9,UPI
+1476,2026-04-02,Home & Kitchen,3.0,25.5,Credit Card
+1477,2026-02-27,Home & Kitchen,1.0,49.9,Credit Card
+1478,2026-02-24,Home & Kitchen,3.0,250.0,Credit Card
+1479,2026-03-31,Home & Kitchen,1.0,250.0,Debit Card
+1480,2026-03-31,Clothing,1.0,10.0,Debit Card
+1481,2026-03-03,Books,1.0,500.0,Cash
+1482,2026-01-23,Electronics,2.0,49.9,Debit Card
+1483,2026-01-09,Clothing,4.0,99.9,Credit Card
+1484,2026-01-12,Electronics,1.0,10.0,Credit Card
+1485,2026-01-01,Books,1.0,49.9,Debit Card
+1486,2026-02-27,Home & Kitchen,2.0,49.9,UPI
+1487,2026-01-01,Books,1.0,10.0,Debit Card
+1488,2026-02-03,Clothing,3.0,250.0,Debit Card
+1489,2026-04-06,Home & Kitchen,3.0,49.9,Credit Card
+1490,2026-02-17,Clothing,4.0,250.0,Cash
+1491,2026-03-30,Home & Kitchen,1.0,10.0,Credit Card
+1492,2026-01-01,Electronics,2.0,250.0,Cash
+1493,2026-01-16,Electronics,3.0,25.5,Credit Card
+1494,2026-03-02,Electronics,2.0,99.9,Debit Card
+1495,2026-03-05,Books,2.0,49.9,Credit Card
+1496,2026-03-04,Clothing,3.0,500.0,Credit Card
+1497,2026-03-10,Books,2.0,99.9,Credit Card
+1498,2026-01-22,Electronics,3.0,250.0,Debit Card
+1499,2026-04-03,Clothing,2.0,49.9,Debit Card
+1500,2026-03-08,Electronics,3.0,250.0,Debit Card
+1001,2026-02-21,Books,4.0,10.0,UPI
+1002,2026-04-03,Clothing,4.0,49.9,Credit Card
+1003,2026-01-15,Books,4.0,49.9,Cash
+1004,2026-03-13,Home & Kitchen,1.0,99.9,Cash
+1005,2026-03-02,Electronics,2.0,49.9,Cash

@@ -1,0 +1,6 @@
+# Business Insights Report
+1. Electronics generated the highest total revenue share.
+2. Digital payments (UPI and Credit Cards) dominate checkouts.
+3. Order quantities typically range between 1 to 4 units.
+4. Daily order volumes remain stable across the period.
+5. High-value transactions (>$250) heavily drive top-line performance.
